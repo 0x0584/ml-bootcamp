@@ -1,0 +1,15 @@
+[submodule "py00"]
+	path = py00
+	url = git@github.com:0x0584/py00.git
+[submodule "py01"]
+	path = py01
+	url = git@github.com:0x0584/py01.git
+[submodule "py02"]
+	path = py02
+	url = git@github.com:0x0584/py02.git
+[submodule "py03"]
+	path = py03
+	url = git@github.com:0x0584/py03.git
+[submodule "py04"]
+	path = py04
+	url = git@github.com:0x0584/py04.git
